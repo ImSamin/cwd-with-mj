@@ -1,0 +1,295 @@
+.con1{
+    background-image: url(../image/6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding:10%;
+	margin-top: -5px;
+    
+    
+}
+
+.contain{
+    width:99% ;
+    height: 60px;
+    background-color:  rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    margin: auto;
+    position: fixed;
+    top: 0px;
+    left:0px;
+    right: 0px;
+    text-align: center;
+    padding-top:30px;
+
+
+    
+}
+
+
+.man{
+    margin: 15px;
+    text-decoration: none;
+    
+}
+.man:visited{
+    color:#ffffff;
+}
+
+.man:link{
+     color: #ffffff;
+}
+
+.man:hover{
+    color: #ff0000;
+}
+
+.logo{
+    height: 40px;
+    width: 80px;
+    border: 1px solid #ffffff;
+    border-radius: 10%;
+    float: left;
+    margin: 25px;
+    text-align: center;
+    overflow: hidden;
+    margin-top: -15px;
+    margin-left: 200px;
+    padding-top: 10px;
+    
+    
+}
+.social {
+    float: right;
+    margin-top: -10px;
+    margin-right: 200px
+}
+    
+.fa{
+    padding: 5px;
+    font-size: 5px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+	margin: 5px;
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.icon{
+   
+    
+    margin: 5px;
+	
+}
+
+
+
+.men:hover{
+    color: red;
+}
+
+.btn{
+    padding: 10px;
+    color: red;
+    margin-left: 470px;
+	margin-top: -130px;
+    
+}
+
+
+.btn:hover{
+    color: yellow;
+    background-color: black;
+}
+
+.ita{
+    height: 10%px;
+    width: 100%;
+    background-color: ghostwhite;
+    margin-top: 100px
+    
+}
+.left{
+    height: 300px;
+    width: 600px;
+    float: left;
+    margin: 100px;
+
+}
+
+.our:hover{
+    color: yellow;
+    background-color: black;
+}
+
+.r8{
+    height: 400px;
+    width: 300px;
+    float: right;
+    margin-right: 200px;
+    margin-top: 40px;
+    border-radius: ;
+}
+
+.sam{
+    border-radius: 30px;
+    transition: 2s;
+}
+
+.sam:hover{
+    transform:scale(1.1,1.1)
+}
+.con3{ padding: 10%
+    
+}
+.gal{
+	margin-top: 150px;
+	float: left;
+	margin: auto;
+    
+   }
+.gals{
+	height: 370px;
+	width: 320px;
+	
+	float: left;
+	margin: 10px;
+	transition: 2s;
+}
+.gala{
+	height: 200px;
+	width: 300px;
+	margin: 10px;
+	float: left;
+	border-radius: 20px;
+}
+
+.ro{
+	font-size: 30px;
+	text-align: center;
+}
+
+.rom{
+	text-align: center;
+	color: black;
+	opacity: 0.7;
+}
+.roma{
+	color: red;
+	
+	margin: 20px;
+	
+}
+
+.gals:hover{
+	border: 1px solid #ffffd9;
+
+}
+
+.fom{
+	background-color:beige;
+	padding: 5%;
+	overflow: hidden;
+}
+.re{
+	height: 100px;
+	width: 600px;
+	
+	
+}
+
+
+
+
+.right{
+	height: 400px;
+	width: 300px;
+	
+	float: right;
+	
+}
+
+
+
+.book{
+	border-radius: 20px;
+	transition: 2s;
+	float: right;
+	margin-top: 150px;
+	
+}
+.book:hover{
+	transform: scale(1.1, 1.1)
+}
+
+.left1{
+	height: 300px;
+	width: 600px;
+	
+	float: left;
+	margin-top: 10px;
+}
+
+.form1{
+	height: 300px;
+	width: 300px;
+	
+	float: left;
+	
+}
+
+.form2{
+	height: 300px;
+	width: 300px;
+	float: right;
+	
+}
+
+input{
+	height: 40px;
+	width: 250px;
+	margin: 10px;
+	border-radius: 10px;
+	
+}
+
+select{
+	height: 40px;
+	width: 250px;
+	margin: 10px;
+	border-radius: 10px;
+	
+	
+}
+
+label{
+	margin: 10px;
+	color: black;
+	font-size: 30px;
+	margin-top: 10px;
+	}
+option{
+	color: black;
+	opacity: 0.3;
+}
+.but:hover{
+	background-color: red;
+	color: black;
+}
